@@ -12,8 +12,9 @@
 - File size limit protection (10MB)
 
 ## Demo
-![alt text](example/img1.png)
-![alt text](example/img2.png)
+<img width="1434" alt="Screenshot 2024-12-11 at 6 02 41 PM" src="https://github.com/user-attachments/assets/1edd4fec-a33e-40a1-9511-e8d303b6f4a9" />
+
+<img width="1434" alt="Screenshot 2024-12-11 at 6 01 46 PM" src="https://github.com/user-attachments/assets/6c0600cf-5650-4d54-97fe-65b82acfde0b" />
 
 
 ## Installation
