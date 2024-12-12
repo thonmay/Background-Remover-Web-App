@@ -21,9 +21,9 @@
 
 1. Clone the repository:
 
->>  git clone https://github.com/thonmay/background-removal-app.git
+>>  git clone: https://github.com/thonmay/Background-Remover-Web-App
 
->>  cd background-removal-app
+>>  cd Background-Remover-Web-App
 
 2. Install the required dependencies:
 
